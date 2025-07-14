@@ -7,9 +7,9 @@
 - **Responsive design** that works on all devices
 - **Modular JavaScript architecture** for maintainable code
 
-## 🚀 Live Demo
+##  Website Link
 
-[View the live website here](https://armanrehman.github.io/restaurant-page/)
+[View the website here](https://armanrehman.github.io/restaurant-page/)
 
 ## 🛠️ Technologies Used
 
@@ -33,7 +33,7 @@ restaurant-page/
 └── README.md
 ```
 
-## 🎯 Key Features
+## Key Features
 
 ### 1. **Dynamic Content Generation**
 - All content is created using JavaScript DOM manipulation
@@ -61,7 +61,7 @@ restaurant-page/
 - Adaptive typography and spacing
 - Touch-friendly navigation
 
-## 🏃‍♂️ How to Run
+##  How to Run
 
 ### Prerequisites
 - Node.js (version 14 or higher)
