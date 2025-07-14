@@ -1,11 +1,11 @@
 # Arman's Restaurant - Dynamic Restaurant Website
 
 ## Project Overview
-- **Dynamic content rendering** using pure JavaScript
+- **Dynamic content rendering** using JavaScript
 - **Tabbed navigation** between Home, Menu, About, and Contact sections
 - **restaurant aesthetic** with elegant typography and color scheme
 - **Responsive design** that works on all devices
-- **Modular JavaScript architecture** for maintainable code
+- **Modular JavaScript architecture** using webpack for maintainable code
 
 ##  Website Link
 
@@ -13,7 +13,7 @@
 
 ## Technologies Used
 
-- **JavaScript (ES6+)** - functionality and DOM manipulation
+- **JavaScript ** - functionality and DOM manipulation
 - **Webpack** - Module bundling and development server
 - **CSS** - Modern styling with gradients, animations, and responsive design
 
